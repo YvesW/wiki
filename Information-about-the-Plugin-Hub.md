@@ -23,6 +23,10 @@ Using the Plugin Hub is very simple
 
 Plugins are reviewed by RuneLite before they are added to the plugin hub for safety. We don't guarantee that the plugins in the hub will actually work, or that they won't crash your game and kill your HCIM. For more details on the plugin review process, see [Plugin Hub Review](https://github.com/runelite/runelite/wiki/Plugin-Hub-Review).
 
+### A warning pops up when I click install!
+
+Plugins which communicate with third party servers are required to have a warning either on the plugin, or on the configuration option enabling the setting, explaining what data is being sent.
+
 ### A plugin from the Plugin Hub isn't working or is wrong!
 
 All bugs and requests relating to Plugin Hub plugins should be discussed with the plugin's developer. Clicking the ![?](https://user-images.githubusercontent.com/2979691/75092785-4b3b5100-5573-11ea-9dbe-815730b36afa.png)
