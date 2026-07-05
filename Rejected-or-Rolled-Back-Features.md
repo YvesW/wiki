@@ -11,6 +11,7 @@ Jagex has requested removal of certain features, and current discussion of featu
 * Fight Cave (Jad) Plugin: Plugin trivialises the fight against Jad (see [#6724](https://github.com/runelite/runelite/pull/6724))
 * Cerberus plugin: [see Jagex statement](https://secure.runescape.com/m=news/third-party-client-guidelines?oldschool=1)
 * Plugins that remove the inventory pane background or make it click-through. This was abused to trivialize click-intensive skilling methods.
+* Plugins that manipulate the client's window, including, but not limited to, minimizing or changing which window is currently focused.
 
 #### Not currently being considered
 * RuneLite XP Drops: The vanilla client already has XP drops that can be repositioned/recolored (see [#1102](https://github.com/runelite/runelite/issues/1102))
